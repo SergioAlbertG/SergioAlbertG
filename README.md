@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Sergio Guzman, im 16 years old and i love to plays videogames when i have time for them, also im studing programation in Itesa
 <!--
 **SergioAlbertG/SergioAlbertG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
